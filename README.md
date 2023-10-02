@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudipchatterjee04&label=Profile%20views&color=0e75b6&style=flat" alt="sudipchatterjee04" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudipchatterjee04" alt="sudipchatterjee04" /></a> </p>
+
 - 🔭 I’m currently working on **React Native Quiz app**
 
 - 🌱 I’m currently learning **MERN, React Native**
@@ -17,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/sudip-chatterjee-043734247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudip-chatterjee-043734247" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/paglasudip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="paglasudip" height="30" width="40" /></a>
 </p>
 
